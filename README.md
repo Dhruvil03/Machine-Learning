@@ -1,2 +1,2 @@
 # Machine-Learning
-Python codes for common Machine Learning Algorithms.
+Python codes for several Machine Learning Algorithms.
